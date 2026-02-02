@@ -28,7 +28,6 @@ public class Bai4 {
             System.out.println("Ma nhan vien: " + MaNV);
             System.out.println("Ten nhan vien: " + TenNV);
             System.out.println("Luong nhan vien: " + Luong);
-            System.out.println("----------------------");
         }
     }
 

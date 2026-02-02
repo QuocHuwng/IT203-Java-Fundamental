@@ -57,7 +57,7 @@ public class Bai6 {
         User u2 = new User(2, "testuser", "", "saiemail");
         u2.show();
 
-        User u3 = new User(3, "admin", "admin123", "admin@company.com");
+        User u3 = new User(3, "admin", "admin123", "admin@gmail.com");
         u3.show();
     }
 }
